@@ -1,11 +1,8 @@
 import streamlit as st
-import tempfile
-import codecs
 import pandas as pd
 import smtplib, ssl
 from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
-import codecs
 import ssl
 
 
