@@ -6,11 +6,11 @@ https://user-images.githubusercontent.com/72432569/150386362-0bc7b86a-cc15-4a13-
 
 ## Run this project
 
-### clone the project
+### Clone the project
 ```
 bashg it clone https://github.com/pradeepodela/Email-marketing-tool-python
 ```
-### install the librares 
+### Install the libraries 
 ```
 pip install streamlit
 ```
