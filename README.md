@@ -26,4 +26,7 @@ pip install smtplib
 ```
 pip install ssl
 ```
-
+### Now run the project
+```
+streamlit run main.py
+```
